@@ -1,7 +1,6 @@
 Hi there 👋:smiley:
 
-![poqdavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=poqdavid&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poqdavid&layout=compact&count_private=true&langs_count=10&theme=radical)
+![poqdavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=poqdavid&show_icons=true&count_private=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poqdavid&layout=compact&count_private=true&langs_count=10&theme=radical)
 
 
 
