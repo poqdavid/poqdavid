@@ -1,5 +1,5 @@
 <p align="center">
-  Hi there 👋:smiley:, I'm David <h4 align="center">POQDavid#6460</h4>
+  <h3 align="center">Hi there 👋:smiley:, I'm David</h3> <h4 align="center">POQDavid#6460</h4>
 </p>
 
 <div align="center">
