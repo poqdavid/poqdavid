@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Hi there 👋:smiley:, I'm David</h3> <h4 align="center">POQDavid#6460</h4>
+  <h3 align="center">Hi there 👋:smiley:, I'm David</h3> <p align="center"><img src="https://img.shields.io/badge/DISCORD-POQDavid%236460-blue?&style=for-the-badge" /></p>
 </p>
 
 <div align="center">
